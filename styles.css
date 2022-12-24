@@ -1,0 +1,40 @@
+.app {
+  border: 3px solid;
+  border-radius: 5px;
+  margin: 50px 200px 50px 200px;
+}
+
+.button {
+  margin-top: 30px;
+}
+
+.cities {
+  list-style-type: none;
+}
+
+.current-icon {
+  text-align: center;
+  font-size: 80px;
+  border: solid rgb(255, 255, 94);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 94);
+  margin-left: 180px;
+  margin-right: 180px;
+}
+
+.temp {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.info {
+  text-align: center;
+  border: 2px solid rgb(255, 255, 94);
+  border-radius: 3px;
+  background-color: rgb(255, 255, 94);
+  margin: 80px 300px 20px 300px;
+}
+
+ul {
+  list-style: none;
+}
